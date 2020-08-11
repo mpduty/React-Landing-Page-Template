@@ -1,136 +1,136 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "CODING EPISTEMOLOGY",
+        "paragraph": "LIFE IS NOT PERFECT. LIFE IS NOT EASY. LIFE IS GOOD. CODING IS LEARNING LIFE, THE MODERN WAY"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Opal Eduventure looks at coding from a completely different philosophical approach. It is not just learning to build software and earn, its about values, about a modern culture, about the new way of life",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Best Mentors",
+            "Industrial Experience",
+            "Cutting Edges",
+            "Decades of Experience"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Learning to Code",
+            "Building Systems",
+            "Robotics and all that",
+            "Sky is the limit"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level Zero",
+            "text": "Basic coding and robotics for starters and learners from six to ten years of age."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level One",
+            "text": "Fundamental Concepts for next grade learners from ten to thirteen years of age"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level Two",
+            "text": "General Outlook into coding and introduction of technology for age groups fourteen to sixteen"
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level Intermediate",
+            "text": "Intermediate Training for learners at the senior secondary level, sixteen to eighteen age groups"
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level Advanced",
+            "text": "Exposure to industrial standards for underaduate students with emphsis on projects"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Level Pro",
+            "text": "Catering to the needs of the industry for post graduate and engineering graduates"
         }
 
 
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Excellent Mentorship and truly amazing experience for learners of all ages and strata. My first and last choice\"",
+            "name": "John Miller"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"I couldn't believe that coding meant so much for my children, that stepped up their overall learning and work energy\"",
+            "name": "Johnathan Swift"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"I was increasingly benefitted by the industrial traing that I received and the live projects that I worked on, wonderful feeling.\"",
+            "name": "Clara Zetforb"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Where do we think of when it comes to coding, the mentors at OPAL were truly amazing!\"",
+            "name": "Vikram Shetty"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"We don't just learn coding here, we learn also get to know that coding teaches how to think, how to behave and face life\"",
+            "name": "Guru Joshi"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Well this is totally a new approach to learn coding, I would strongly recommend Opal to all learners\"",
+            "name": "Maria Toppo"
         }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Amar",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Sajid",
+            "job": "Director"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Mohan",
+            "job": "Senior Developer"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
+            "name": "Sridhar",
             "job": "Project Manager"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "Opposite Oxford Public School, Pragati Path, Chutia, Ranchi 834001",
+        "phone": "+91 7004468838",
+        "email": "opaleduventure@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Experienced Mentors",
+            "text": "We boast of mentors with decades of experience in teaching skills and psychological methodology"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Advanced Technocrats",
+            "text": "The team comprises of alumni from IITs, IISCs and IIMs, inspiring and dynamic"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Cutting Edge",
+            "text": "A lot goes into the research for providing the cutting edge skills and knowledge for our clients."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Industry Ready",
+            "text": "We train and mentor our learners adequately to blossom as industry ready professional, upto the mark, always."
         }
     ]
 }
